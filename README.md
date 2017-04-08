@@ -34,7 +34,7 @@ solution for movement of N runners, does not find the optimal solution.</span></
 <p class=MsoListParagraphCxSpFirst style='text-indent:-.25in'><span
 style='font-size:12.0pt;line-height:107%;font-family:Symbol'>·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span>Bread<span style='font-size:12.0pt;line-height:107%'> First
+</span></span>Breadth<span style='font-size:12.0pt;line-height:107%'> First
 Search</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in'><span
